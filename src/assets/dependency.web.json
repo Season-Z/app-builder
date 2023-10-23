@@ -1,0 +1,18 @@
+[
+  {
+    "name": "@zxscls/react",
+    "url": "https://unpkg.com/react@18/umd/react.development.js"
+  },
+  {
+    "name": "@zxscls/react-dom",
+    "url": "https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+  },
+  {
+    "name": "dayjs",
+    "url": "https://cdn.bootcdn.net/ajax/libs/dayjs/1.11.7/dayjs.min.js"
+  },
+  {
+    "name": "antd",
+    "url": "https://cdn.bootcdn.net/ajax/libs/antd/4.21.0/antd.min.js"
+  }
+]

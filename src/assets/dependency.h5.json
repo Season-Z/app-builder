@@ -1,0 +1,10 @@
+[
+  {
+    "name": "@zxscls/react",
+    "url": "https://unpkg.com/react@18/umd/react.development.js"
+  },
+  {
+    "name": "@zxscls/react-dom",
+    "url": "https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+  }
+]
